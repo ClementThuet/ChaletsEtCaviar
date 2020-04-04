@@ -1,0 +1,957 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Real Estate Theme\n"
+"POT-Creation-Date: 2018-08-28 17:37-0000\n"
+"PO-Revision-Date: 2018-08-28 17:38-0000\n"
+"Last-Translator: Bill <sergiominozzi@gmail.com>\n"
+"Language-Team: Bill Minozzi <sergiominozzi@gmail.com>\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.11\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __;esc_attr_e;_e\n"
+"X-Poedit-SearchPath-0: F:\\realestatethemes\\realestate_1.06\n"
+
+#: F:\realestatethemes\realestate_1.06/404.php:17
+msgid "Oops! That page can&rsquo;t be found."
+msgstr ""
+
+#: F:\realestatethemes\realestate_1.06/404.php:21
+#: F:\realestatethemes\realestate_1.06/footer.php:65
+#: F:\realestatethemes\realestate_1.06/search.php:15
+#: F:\realestatethemes\realestate_1.06/template-parts/content-none.php:15
+msgid "Not Found"
+msgstr ""
+
+#: F:\realestatethemes\realestate_1.06/404.php:24
+msgid "It looks like nothing was found at this location. Maybe try a search?"
+msgstr ""
+
+#: F:\realestatethemes\realestate_1.06/archive.php:49
+#: F:\realestatethemes\realestate_1.06/index.php:46
+#: F:\realestatethemes\realestate_1.06/search.php:32
+msgid "Previous page"
+msgstr ""
+
+#: F:\realestatethemes\realestate_1.06/archive.php:50
+#: F:\realestatethemes\realestate_1.06/index.php:47
+#: F:\realestatethemes\realestate_1.06/search.php:33
+msgid "Next page"
+msgstr ""
+
+#: F:\realestatethemes\realestate_1.06/archive.php:51
+#: F:\realestatethemes\realestate_1.06/image.php:60
+#: F:\realestatethemes\realestate_1.06/index.php:48
+#: F:\realestatethemes\realestate_1.06/search.php:34
+#: F:\realestatethemes\realestate_1.06/template-parts/content-page.php:27
+#: F:\realestatethemes\realestate_1.06/template-parts/content-single.php:29
+#: F:\realestatethemes\realestate_1.06/template-parts/content.php:37
+msgid "Page"
+msgstr ""
+
+#: F:\realestatethemes\realestate_1.06/comments.php:68
+msgid "Comments are closed."
+msgstr ""
+
+#: F:\realestatethemes\realestate_1.06/footer.php:58
+msgid "Powered by realestatetheme.eu"
+msgstr ""
+
+#: F:\realestatethemes\realestate_1.06/footer.php:65
+msgid "Back to Top"
+msgstr ""
+
+#: F:\realestatethemes\realestate_1.06/functions.php:47
+msgid "Set Up Your Menu"
+msgstr ""
+
+#: F:\realestatethemes\realestate_1.06/functions.php:104
+#: F:\realestatethemes\realestate_1.06/header.php:173
+msgid "Primary Menu"
+msgstr ""
+
+#: F:\realestatethemes\realestate_1.06/functions.php:105
+#: F:\realestatethemes\realestate_1.06/header.php:97
+msgid "Social Links Menu"
+msgstr ""
+
+#: F:\realestatethemes\realestate_1.06/functions.php:169
+msgid "Sidebar"
+msgstr ""
+
+#: F:\realestatethemes\realestate_1.06/functions.php:171
+msgid "Add widgets here to appear in your sidebar."
+msgstr ""
+
+#: F:\realestatethemes\realestate_1.06/functions.php:179
+msgid "First Footer Widget"
+msgstr ""
+
+#: F:\realestatethemes\realestate_1.06/functions.php:181
+msgid "Add widgets here to appear in your left footer."
+msgstr ""
+
+#: F:\realestatethemes\realestate_1.06/functions.php:189
+msgid "Second Footer Widget"
+msgstr ""
+
+#: F:\realestatethemes\realestate_1.06/functions.php:191
+msgid "Add widgets here to appear in your center footer."
+msgstr ""
+
+#: F:\realestatethemes\realestate_1.06/functions.php:199
+msgid "Third Footer Widget"
+msgstr ""
+
+#: F:\realestatethemes\realestate_1.06/functions.php:201
+msgid "Add widgets here to appear in your right footer."
+msgstr ""
+
+#: F:\realestatethemes\realestate_1.06/functions.php:302
+msgid "expand child menu"
+msgstr ""
+
+#: F:\realestatethemes\realestate_1.06/functions.php:303
+msgid "collapse child menu"
+msgstr ""
+
+#: F:\realestatethemes\realestate_1.06/header.php:27
+msgid "Skip to content"
+msgstr ""
+
+#: F:\realestatethemes\realestate_1.06/header.php:33
+msgid "Loading Icon"
+msgstr ""
+
+#: F:\realestatethemes\realestate_1.06/header.php:141
+msgid "products"
+msgstr ""
+
+#: F:\realestatethemes\realestate_1.06/header.php:145
+msgid "1 product"
+msgstr ""
+
+#: F:\realestatethemes\realestate_1.06/header.php:165
+msgid "Menu"
+msgstr ""
+
+#: F:\realestatethemes\realestate_1.06/image.php:24
+msgid "Previous Image"
+msgstr ""
+
+#: F:\realestatethemes\realestate_1.06/image.php:25
+msgid "Next Image"
+msgstr ""
+
+#: F:\realestatethemes\realestate_1.06/image.php:56
+#: F:\realestatethemes\realestate_1.06/template-parts/content-page.php:23
+#: F:\realestatethemes\realestate_1.06/template-parts/content-single.php:25
+#: F:\realestatethemes\realestate_1.06/template-parts/content.php:33
+msgid "Pages:"
+msgstr ""
+
+#. translators: %s: Name of current post
+#: F:\realestatethemes\realestate_1.06/image.php:84
+#: F:\realestatethemes\realestate_1.06/template-parts/content-page.php:37
+#: F:\realestatethemes\realestate_1.06/template-parts/content-search.php:28
+#: F:\realestatethemes\realestate_1.06/template-parts/content-search.php:43
+#: F:\realestatethemes\realestate_1.06/template-parts/content-single.php:45
+#: F:\realestatethemes\realestate_1.06/template-parts/content.php:49
+#, php-format
+msgid "Edit<span class=\"screen-reader-text\"> \"%s\"</span>"
+msgstr ""
+
+#: F:\realestatethemes\realestate_1.06/inc/back-compat.php:41
+#: F:\realestatethemes\realestate_1.06/inc/back-compat.php:53
+#: F:\realestatethemes\realestate_1.06/inc/back-compat.php:68
+#, php-format
+msgid ""
+"real estate requires at least WordPress version 4.4. You are running version "
+"%s. Please upgrade and try again."
+msgstr ""
+
+#: F:\realestatethemes\realestate_1.06/inc/class-tgm-plugin-activation.php:327
+msgid "Install Required Plugins"
+msgstr ""
+
+#: F:\realestatethemes\realestate_1.06/inc/class-tgm-plugin-activation.php:328
+msgid "Install Plugins"
+msgstr ""
+
+#. translators: %s: plugin name.
+#: F:\realestatethemes\realestate_1.06/inc/class-tgm-plugin-activation.php:330
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#. translators: %s: plugin name.
+#: F:\realestatethemes\realestate_1.06/inc/class-tgm-plugin-activation.php:332
+#, php-format
+msgid "Updating Plugin: %s"
+msgstr ""
+
+#: F:\realestatethemes\realestate_1.06/inc/class-tgm-plugin-activation.php:333
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: F:\realestatethemes\realestate_1.06/inc/class-tgm-plugin-activation.php:385
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: F:\realestatethemes\realestate_1.06/inc/class-tgm-plugin-activation.php:386
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: F:\realestatethemes\realestate_1.06/inc/class-tgm-plugin-activation.php:387
+#: F:\realestatethemes\realestate_1.06/inc/class-tgm-plugin-activation.php:3159
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: F:\realestatethemes\realestate_1.06/inc/class-tgm-plugin-activation.php:388
+msgid "The following plugin was activated successfully:"
+msgstr ""
+
+#. translators: 1: plugin name.
+#: F:\realestatethemes\realestate_1.06/inc/class-tgm-plugin-activation.php:390
+#, php-format
+msgid "No action taken. Plugin %1$s was already active."
+msgstr ""
+
+#. translators: 1: plugin name.
+#: F:\realestatethemes\realestate_1.06/inc/class-tgm-plugin-activation.php:392
+#, php-format
+msgid ""
+"Plugin not activated. A higher version of %s is needed for this theme. "
+"Please update the plugin."
+msgstr ""
+
+#. translators: 1: dashboard link.
+#: F:\realestatethemes\realestate_1.06/inc/class-tgm-plugin-activation.php:394
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: F:\realestatethemes\realestate_1.06/inc/class-tgm-plugin-activation.php:395
+msgid "Dismiss this notice"
+msgstr ""
+
+#: F:\realestatethemes\realestate_1.06/inc/class-tgm-plugin-activation.php:396
+msgid ""
+"There are one or more required or recommended plugins to install, update or "
+"activate."
+msgstr ""
+
+#: F:\realestatethemes\realestate_1.06/inc/class-tgm-plugin-activation.php:397
+msgid "Please contact the administrator of this site for help."
+msgstr ""
+
+#. translators: %s: version number
+#: F:\realestatethemes\realestate_1.06/inc/class-tgm-plugin-activation.php:1982
+#, php-format
+msgid "TGMPA v%s"
+msgstr ""
+
+#: F:\realestatethemes\realestate_1.06/inc/class-tgm-plugin-activation.php:2273
+msgid "Required"
+msgstr ""
+
+#: F:\realestatethemes\realestate_1.06/inc/class-tgm-plugin-activation.php:2276
+msgid "Recommended"
+msgstr ""
+
+#: F:\realestatethemes\realestate_1.06/inc/class-tgm-plugin-activation.php:2292
+msgid "WordPress Repository"
+msgstr ""
+
+#: F:\realestatethemes\realestate_1.06/inc/class-tgm-plugin-activation.php:2295
+msgid "External Source"
+msgstr ""
+
+#: F:\realestatethemes\realestate_1.06/inc/class-tgm-plugin-activation.php:2298
+msgid "Pre-Packaged"
+msgstr ""
+
+#: F:\realestatethemes\realestate_1.06/inc/class-tgm-plugin-activation.php:2315
+msgid "Not Installed"
+msgstr ""
+
+#: F:\realestatethemes\realestate_1.06/inc/class-tgm-plugin-activation.php:2319
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: F:\realestatethemes\realestate_1.06/inc/class-tgm-plugin-activation.php:2321
+msgid "Active"
+msgstr ""
+
+#: F:\realestatethemes\realestate_1.06/inc/class-tgm-plugin-activation.php:2327
+msgid "Required Update not Available"
+msgstr ""
+
+#: F:\realestatethemes\realestate_1.06/inc/class-tgm-plugin-activation.php:2330
+msgid "Requires Update"
+msgstr ""
+
+#: F:\realestatethemes\realestate_1.06/inc/class-tgm-plugin-activation.php:2333
+msgid "Update recommended"
+msgstr ""
+
+#: F:\realestatethemes\realestate_1.06/inc/class-tgm-plugin-activation.php:2490
+msgid "Installed version:"
+msgstr ""
+
+#: F:\realestatethemes\realestate_1.06/inc/class-tgm-plugin-activation.php:2498
+msgid "Minimum required version:"
+msgstr ""
+
+#: F:\realestatethemes\realestate_1.06/inc/class-tgm-plugin-activation.php:2510
+msgid "Available version:"
+msgstr ""
+
+#: F:\realestatethemes\realestate_1.06/inc/class-tgm-plugin-activation.php:2547
+msgid "Plugin"
+msgstr ""
+
+#: F:\realestatethemes\realestate_1.06/inc/class-tgm-plugin-activation.php:2548
+msgid "Source"
+msgstr ""
+
+#: F:\realestatethemes\realestate_1.06/inc/class-tgm-plugin-activation.php:2549
+msgid "Type"
+msgstr ""
+
+#: F:\realestatethemes\realestate_1.06/inc/class-tgm-plugin-activation.php:2553
+msgid "Version"
+msgstr ""
+
+#: F:\realestatethemes\realestate_1.06/inc/class-tgm-plugin-activation.php:2554
+msgid "Status"
+msgstr ""
+
+#. translators: %2$s: plugin name in screen reader markup
+#: F:\realestatethemes\realestate_1.06/inc/class-tgm-plugin-activation.php:2603
+#, php-format
+msgid "Install %2$s"
+msgstr ""
+
+#. translators: %2$s: plugin name in screen reader markup
+#: F:\realestatethemes\realestate_1.06/inc/class-tgm-plugin-activation.php:2608
+#, php-format
+msgid "Update %2$s"
+msgstr ""
+
+#. translators: %2$s: plugin name in screen reader markup
+#: F:\realestatethemes\realestate_1.06/inc/class-tgm-plugin-activation.php:2614
+#, php-format
+msgid "Activate %2$s"
+msgstr ""
+
+#: F:\realestatethemes\realestate_1.06/inc/class-tgm-plugin-activation.php:2717
+msgid "Install"
+msgstr ""
+
+#: F:\realestatethemes\realestate_1.06/inc/class-tgm-plugin-activation.php:2723
+#: F:\realestatethemes\realestate_1.06/inc/help.php:164
+msgid "Update"
+msgstr ""
+
+#: F:\realestatethemes\realestate_1.06/inc/class-tgm-plugin-activation.php:2726
+msgid "Activate"
+msgstr ""
+
+#: F:\realestatethemes\realestate_1.06/inc/class-tgm-plugin-activation.php:2757
+msgid "No plugins were selected to be installed. No action taken."
+msgstr ""
+
+#: F:\realestatethemes\realestate_1.06/inc/class-tgm-plugin-activation.php:2759
+msgid "No plugins were selected to be updated. No action taken."
+msgstr ""
+
+#: F:\realestatethemes\realestate_1.06/inc/class-tgm-plugin-activation.php:2800
+msgid "No plugins are available to be installed at this time."
+msgstr ""
+
+#: F:\realestatethemes\realestate_1.06/inc/class-tgm-plugin-activation.php:2802
+msgid "No plugins are available to be updated at this time."
+msgstr ""
+
+#: F:\realestatethemes\realestate_1.06/inc/class-tgm-plugin-activation.php:3158
+msgid "Plugin activation failed."
+msgstr ""
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: F:\realestatethemes\realestate_1.06/inc/class-tgm-plugin-activation.php:3498
+#, php-format
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#. translators: 1: plugin name, 2: error message.
+#: F:\realestatethemes\realestate_1.06/inc/class-tgm-plugin-activation.php:3501
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#. translators: 1: plugin name.
+#: F:\realestatethemes\realestate_1.06/inc/class-tgm-plugin-activation.php:3503
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: F:\realestatethemes\realestate_1.06/inc/class-tgm-plugin-activation.php:3507
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+
+#. translators: 1: plugin name.
+#: F:\realestatethemes\realestate_1.06/inc/class-tgm-plugin-activation.php:3509
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: F:\realestatethemes\realestate_1.06/inc/class-tgm-plugin-activation.php:3510
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: F:\realestatethemes\realestate_1.06/inc/class-tgm-plugin-activation.php:3512
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: F:\realestatethemes\realestate_1.06/inc/class-tgm-plugin-activation.php:3515
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+
+#: F:\realestatethemes\realestate_1.06/inc/class-tgm-plugin-activation.php:3518
+msgid "All installations have been completed."
+msgstr ""
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: F:\realestatethemes\realestate_1.06/inc/class-tgm-plugin-activation.php:3520
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: F:\realestatethemes\realestate_1.06/inc/customizer.php:111
+msgid "Branding Margin From Top"
+msgstr ""
+
+#: F:\realestatethemes\realestate_1.06/inc/customizer.php:114
+msgid "Choose from -20px to 100px"
+msgstr ""
+
+#: F:\realestatethemes\realestate_1.06/inc/customizer.php:126
+msgid "Layout"
+msgstr ""
+
+#: F:\realestatethemes\realestate_1.06/inc/customizer.php:129
+msgid "Change General options here."
+msgstr ""
+
+#: F:\realestatethemes\realestate_1.06/inc/customizer.php:142
+msgid "Show entry-title"
+msgstr ""
+
+#: F:\realestatethemes\realestate_1.06/inc/customizer.php:156
+msgid "Show Sidebar at blog homepage."
+msgstr ""
+
+#: F:\realestatethemes\realestate_1.06/inc/customizer.php:171
+msgid "Website Layout"
+msgstr ""
+
+#: F:\realestatethemes\realestate_1.06/inc/customizer.php:188
+msgid "Background transparency (opacity)"
+msgstr ""
+
+#: F:\realestatethemes\realestate_1.06/inc/customizer.php:189
+msgid "Choose from .6 to 1"
+msgstr ""
+
+#: F:\realestatethemes\realestate_1.06/inc/customizer.php:201
+msgid "Top Header Settings"
+msgstr ""
+
+#: F:\realestatethemes\realestate_1.06/inc/customizer.php:218
+msgid "Show"
+msgstr ""
+
+#: F:\realestatethemes\realestate_1.06/inc/customizer.php:219
+msgid ""
+"Show Top Header Info (email, phone, hours) and Social Media Menu at top "
+"header."
+msgstr ""
+
+#: F:\realestatethemes\realestate_1.06/inc/customizer.php:228
+msgid "Top Info Phone"
+msgstr ""
+
+#: F:\realestatethemes\realestate_1.06/inc/customizer.php:238
+msgid "Top Info eMail"
+msgstr ""
+
+#: F:\realestatethemes\realestate_1.06/inc/customizer.php:247
+msgid "Top Info Hours"
+msgstr ""
+
+#: F:\realestatethemes\realestate_1.06/inc/customizer.php:258
+msgid "Header Top Info Color"
+msgstr ""
+
+#: F:\realestatethemes\realestate_1.06/inc/customizer.php:270
+msgid "Header Settings"
+msgstr ""
+
+#: F:\realestatethemes\realestate_1.06/inc/customizer.php:284
+#: F:\realestatethemes\realestate_1.06/inc/customizer.php:327
+msgid "Header Background Color"
+msgstr ""
+
+#: F:\realestatethemes\realestate_1.06/inc/customizer.php:301
+msgid "Show border"
+msgstr ""
+
+#: F:\realestatethemes\realestate_1.06/inc/customizer.php:313
+msgid "Header Bottom Border Color"
+msgstr ""
+
+#: F:\realestatethemes\realestate_1.06/inc/customizer.php:341
+msgid "Header Text Color"
+msgstr ""
+
+#: F:\realestatethemes\realestate_1.06/inc/customizer.php:358
+msgid "Shopping Cart Text Color"
+msgstr ""
+
+#: F:\realestatethemes\realestate_1.06/inc/customizer.php:372
+msgid "Main Navigation Design"
+msgstr ""
+
+#: F:\realestatethemes\realestate_1.06/inc/customizer.php:376
+msgid "Change Navigation detais here."
+msgstr ""
+
+#: F:\realestatethemes\realestate_1.06/inc/customizer.php:388
+msgid "Menu Margin Top"
+msgstr ""
+
+#: F:\realestatethemes\realestate_1.06/inc/customizer.php:389
+msgid "Choose from -20 to 50 Pixels."
+msgstr ""
+
+#: F:\realestatethemes\realestate_1.06/inc/customizer.php:405
+msgid "Menu Margin Right"
+msgstr ""
+
+#: F:\realestatethemes\realestate_1.06/inc/customizer.php:406
+msgid "Choose from -20 to 30 Pixels."
+msgstr ""
+
+#: F:\realestatethemes\realestate_1.06/inc/customizer.php:421
+msgid "Menu Font Size"
+msgstr ""
+
+#: F:\realestatethemes\realestate_1.06/inc/customizer.php:422
+msgid "Choose from 12 to 20 Pixels."
+msgstr ""
+
+#: F:\realestatethemes\realestate_1.06/inc/customizer.php:437
+msgid "Background Navigation Color"
+msgstr ""
+
+#: F:\realestatethemes\realestate_1.06/inc/customizer.php:451
+msgid "Menu Text Color"
+msgstr ""
+
+#: F:\realestatethemes\realestate_1.06/inc/customizer.php:465
+msgid "Menu Text Hover Color"
+msgstr ""
+
+#: F:\realestatethemes\realestate_1.06/inc/customizer.php:479
+msgid "Sub Menu Background"
+msgstr ""
+
+#: F:\realestatethemes\realestate_1.06/inc/customizer.php:493
+msgid "Sub Menu Text Color"
+msgstr ""
+
+#: F:\realestatethemes\realestate_1.06/inc/customizer.php:507
+msgid "Sub Menu Hover color"
+msgstr ""
+
+#: F:\realestatethemes\realestate_1.06/inc/customizer.php:521
+msgid "Sub Menu Hover Background"
+msgstr ""
+
+#: F:\realestatethemes\realestate_1.06/inc/customizer.php:533
+msgid "Social Navigation Design"
+msgstr ""
+
+#: F:\realestatethemes\realestate_1.06/inc/customizer.php:550
+msgid "Social Menu Color"
+msgstr ""
+
+#: F:\realestatethemes\realestate_1.06/inc/customizer.php:553
+#: F:\realestatethemes\realestate_1.06/inc/customizer.php:642
+msgid "White"
+msgstr ""
+
+#: F:\realestatethemes\realestate_1.06/inc/customizer.php:554
+#: F:\realestatethemes\realestate_1.06/inc/customizer.php:643
+#: F:\realestatethemes\realestate_1.06/inc/customizer.php:914
+msgid "Gray"
+msgstr ""
+
+#: F:\realestatethemes\realestate_1.06/inc/customizer.php:555
+#: F:\realestatethemes\realestate_1.06/inc/customizer.php:644
+#: F:\realestatethemes\realestate_1.06/inc/customizer.php:903
+msgid "Dark"
+msgstr ""
+
+#: F:\realestatethemes\realestate_1.06/inc/customizer.php:564
+#: F:\realestatethemes\realestate_1.06/inc/help.php:423
+msgid "Footer Copyright"
+msgstr ""
+
+#: F:\realestatethemes\realestate_1.06/inc/customizer.php:576
+msgid "Copyright Footer Text Here"
+msgstr ""
+
+#: F:\realestatethemes\realestate_1.06/inc/customizer.php:587
+msgid "Copyright Background Color"
+msgstr ""
+
+#: F:\realestatethemes\realestate_1.06/inc/customizer.php:601
+msgid "Copyright Text Color"
+msgstr ""
+
+#: F:\realestatethemes\realestate_1.06/inc/customizer.php:622
+msgid "Footer Background"
+msgstr ""
+
+#: F:\realestatethemes\realestate_1.06/inc/customizer.php:639
+msgid "Footer Background Color"
+msgstr ""
+
+#: F:\realestatethemes\realestate_1.06/inc/customizer.php:780
+msgid "Base Color Scheme"
+msgstr ""
+
+#: F:\realestatethemes\realestate_1.06/inc/customizer.php:793
+msgid "Page Background Color"
+msgstr ""
+
+#: F:\realestatethemes\realestate_1.06/inc/customizer.php:805
+msgid "Link Color"
+msgstr ""
+
+#: F:\realestatethemes\realestate_1.06/inc/customizer.php:815
+msgid "Main Text Color"
+msgstr ""
+
+#: F:\realestatethemes\realestate_1.06/inc/customizer.php:825
+msgid "Secondary Text Color"
+msgstr ""
+
+#: F:\realestatethemes\realestate_1.06/inc/customizer.php:892
+msgid "Default"
+msgstr ""
+
+#: F:\realestatethemes\realestate_1.06/inc/customizer.php:925
+msgid "Orange"
+msgstr ""
+
+#: F:\realestatethemes\realestate_1.06/inc/customizer.php:936
+msgid "Blue"
+msgstr ""
+
+#: F:\realestatethemes\realestate_1.06/inc/help.php:165
+#: F:\realestatethemes\realestate_1.06/inc/help.php:209
+#: F:\realestatethemes\realestate_1.06/inc/help.php:250
+msgid "Cancel"
+msgstr ""
+
+#: F:\realestatethemes\realestate_1.06/inc/help.php:185
+msgid "Send  messages to our Technical Support"
+msgstr ""
+
+#: F:\realestatethemes\realestate_1.06/inc/help.php:186
+msgid "Please, follow this instructions:"
+msgstr ""
+
+#: F:\realestatethemes\realestate_1.06/inc/help.php:188
+msgid "1- No javascript, php or html code."
+msgstr ""
+
+#: F:\realestatethemes\realestate_1.06/inc/help.php:190
+msgid ""
+"2- Try to explain as clearly as you can the issue you are having and what "
+"you were trying to do when the problem occurred."
+msgstr ""
+
+#: F:\realestatethemes\realestate_1.06/inc/help.php:192
+msgid ""
+"Our support center works Monday - Friday (9:00 to 17:00) and we are in "
+"Europe (London time zone) Please give us 1 business day to answer."
+msgstr ""
+
+#: F:\realestatethemes\realestate_1.06/inc/help.php:197
+msgid "* Check your email account"
+msgstr ""
+
+#: F:\realestatethemes\realestate_1.06/inc/help.php:199
+msgid "(also SPAM FOLDER) for our response."
+msgstr ""
+
+#: F:\realestatethemes\realestate_1.06/inc/help.php:204
+msgid "type here your question..."
+msgstr ""
+
+#: F:\realestatethemes\realestate_1.06/inc/help.php:207
+#: F:\realestatethemes\realestate_1.06/inc/help.php:248
+msgid "Yes, Submit"
+msgstr ""
+
+#: F:\realestatethemes\realestate_1.06/inc/help.php:228
+msgid "Please, let us know you, your site and your feedback."
+msgstr ""
+
+#: F:\realestatethemes\realestate_1.06/inc/help.php:229
+msgid ""
+"Hi, my name is Bill Minozzi, and I am developer of theme realestaterightnow."
+msgstr ""
+
+#: F:\realestatethemes\realestate_1.06/inc/help.php:231
+msgid "We appreciate your help in making our theme better."
+msgstr ""
+
+#: F:\realestatethemes\realestate_1.06/inc/help.php:233
+msgid ""
+"We are building the best service we can for you but we can't promise it will "
+"be perfect or if we will include all suggestions."
+msgstr ""
+
+#: F:\realestatethemes\realestate_1.06/inc/help.php:235
+msgid "Thank You!"
+msgstr ""
+
+#: F:\realestatethemes\realestate_1.06/inc/help.php:237
+msgid "type here yours sugestions ..."
+msgstr ""
+
+#: F:\realestatethemes\realestate_1.06/inc/help.php:245
+msgid "(In this case, we are unable to email you)"
+msgstr ""
+
+#: F:\realestatethemes\realestate_1.06/inc/help.php:327
+msgid ""
+"Real Estate is a responsive and not intimidating, easy-to-use WordPress "
+"theme."
+msgstr ""
+
+#: F:\realestatethemes\realestate_1.06/inc/help.php:329
+msgid "You can find also our complete Theme OnLine Guide"
+msgstr ""
+
+#: F:\realestatethemes\realestate_1.06/inc/help.php:331
+msgid "here"
+msgstr ""
+
+#: F:\realestatethemes\realestate_1.06/inc/help.php:334
+msgid "Real Estate Theme has an advanced panel that is loaded with options."
+msgstr ""
+
+#: F:\realestatethemes\realestate_1.06/inc/help.php:336
+msgid ""
+"Go to Appearance > Customize and take a look. We've organized them into "
+"logical sets and have given  descriptions for items that need it, most "
+"things are self explanatory. Be sure to hit Save Changes to save your "
+"settings once you are done."
+msgstr ""
+
+#: F:\realestatethemes\realestate_1.06/inc/help.php:339
+msgid ""
+"Once you have created your home page, you need to select it to show up as "
+"the home page. To do this, follow the steps below."
+msgstr ""
+
+#: F:\realestatethemes\realestate_1.06/inc/help.php:341
+msgid "Navigate to Settings > Reading"
+msgstr ""
+
+#: F:\realestatethemes\realestate_1.06/inc/help.php:343
+msgid "Select A Static Page for Front Page Displays"
+msgstr ""
+
+#: F:\realestatethemes\realestate_1.06/inc/help.php:345
+msgid "Select your new home page for the Front Page"
+msgstr ""
+
+#: F:\realestatethemes\realestate_1.06/inc/help.php:347
+msgid "This is also the same spot you select the Blog page"
+msgstr ""
+
+#: F:\realestatethemes\realestate_1.06/inc/help.php:349
+msgid "Save"
+msgstr ""
+
+#: F:\realestatethemes\realestate_1.06/inc/help.php:352
+msgid "Go to Dashboard  Appearence => Customize  => Menus and setup the menu."
+msgstr ""
+
+#: F:\realestatethemes\realestate_1.06/inc/help.php:354
+msgid "Here is the wordpress help:"
+msgstr ""
+
+#: F:\realestatethemes\realestate_1.06/inc/help.php:357
+msgid "https://codex.wordpress.org/WordPress_Menu_User_Guide"
+msgstr ""
+
+#: F:\realestatethemes\realestate_1.06/inc/help.php:360
+msgid ""
+"Go to Dashboard  Appearence => Customize  => Settings => Site Identity and "
+"setup the logo."
+msgstr ""
+
+#: F:\realestatethemes\realestate_1.06/inc/help.php:363
+msgid ""
+"Go to Dashboard  Appearence => Customize => Customize => Top Page Settings."
+msgstr ""
+
+#: F:\realestatethemes\realestate_1.06/inc/help.php:366
+msgid ""
+"Go to Dashboard  Appearence => Customize => Customize => Footer Copyright."
+msgstr ""
+
+#: F:\realestatethemes\realestate_1.06/inc/help.php:370
+msgid "Dashboard => Real Estate => Settings"
+msgstr ""
+
+#: F:\realestatethemes\realestate_1.06/inc/help.php:373
+msgid "Go to Real Estate Settings tab and you will find a startup guide there."
+msgstr ""
+
+#: F:\realestatethemes\realestate_1.06/inc/help.php:375
+msgid "You can also choose your currency, metric system etc..."
+msgstr ""
+
+#: F:\realestatethemes\realestate_1.06/inc/help.php:381
+msgid "To create a Show Room Page"
+msgstr ""
+
+#: F:\realestatethemes\realestate_1.06/inc/help.php:383
+msgid "Go to DashBoard => Pages and add a new one."
+msgstr ""
+
+#: F:\realestatethemes\realestate_1.06/inc/help.php:385
+msgid "Just copy and paste this Shortcode to your page:"
+msgstr ""
+
+#: F:\realestatethemes\realestate_1.06/inc/help.php:393
+msgid "Overview"
+msgstr ""
+
+#: F:\realestatethemes\realestate_1.06/inc/help.php:398
+msgid "Theme Options"
+msgstr ""
+
+#: F:\realestatethemes\realestate_1.06/inc/help.php:403
+msgid "Setting up the Home"
+msgstr ""
+
+#: F:\realestatethemes\realestate_1.06/inc/help.php:408
+msgid "Setting up the Menu"
+msgstr ""
+
+#: F:\realestatethemes\realestate_1.06/inc/help.php:413
+msgid "Setting up te Logo"
+msgstr ""
+
+#: F:\realestatethemes\realestate_1.06/inc/help.php:418
+msgid "Setting Top Info"
+msgstr ""
+
+#: F:\realestatethemes\realestate_1.06/inc/help.php:429
+msgid "Real Estate Setup"
+msgstr ""
+
+#: F:\realestatethemes\realestate_1.06/inc/help.php:437
+msgid "Creating the Show Room"
+msgstr ""
+
+#: F:\realestatethemes\realestate_1.06/inc/pinstaller.php:110
+msgid "Real Estate"
+msgstr ""
+
+#: F:\realestatethemes\realestate_1.06/inc/template-tags.php:45
+#, php-format
+msgid "Leave a comment<span class=\"screen-reader-text\"> on %s</span>"
+msgstr ""
+
+#. translators: %s: Name of current post
+#: F:\realestatethemes\realestate_1.06/inc/template-tags.php:170
+#: F:\realestatethemes\realestate_1.06/template-parts/content.php:28
+#, php-format
+msgid "Continue reading<span class=\"screen-reader-text\"> \"%s\"</span>"
+msgstr ""
+
+#: F:\realestatethemes\realestate_1.06/search.php:17
+#, php-format
+msgid "Search Results for: %s"
+msgstr ""
+
+#: F:\realestatethemes\realestate_1.06/single.php:34
+msgid "Next"
+msgstr ""
+
+#: F:\realestatethemes\realestate_1.06/single.php:35
+msgid "Next post:"
+msgstr ""
+
+#: F:\realestatethemes\realestate_1.06/single.php:37
+msgid "Previous"
+msgstr ""
+
+#: F:\realestatethemes\realestate_1.06/single.php:38
+msgid "Previous post:"
+msgstr ""
+
+#: F:\realestatethemes\realestate_1.06/template-parts/biography.php:28
+msgid "Author:"
+msgstr ""
+
+#: F:\realestatethemes\realestate_1.06/template-parts/biography.php:33
+#, php-format
+msgid "View all posts by %s"
+msgstr ""
+
+#: F:\realestatethemes\realestate_1.06/template-parts/content-none.php:12
+msgid "Nothing Found"
+msgstr ""
+
+#: F:\realestatethemes\realestate_1.06/template-parts/content-none.php:20
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: F:\realestatethemes\realestate_1.06/template-parts/content-none.php:22
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: F:\realestatethemes\realestate_1.06/template-parts/content-none.php:25
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: F:\realestatethemes\realestate_1.06/template-parts/content.php:14
+msgid "Featured"
+msgstr ""

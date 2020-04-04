@@ -1,0 +1,293 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Real Estate\n"
+"POT-Creation-Date: 2018-08-20 21:53-0000\n"
+"PO-Revision-Date: 2018-08-23 09:45+0000\n"
+"Last-Translator: admin <office@dhdimobiliare.ro>\n"
+"Language-Team: Română\n"
+"Language: ro-RO\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-KeywordsList: __;esc_attr_e;_e\n"
+"X-Poedit-SearchPath-0: f:/wordpress/real-estate-right-now/trunk\n"
+"X-Poedit-SearchPath-1: f:/wordpress/real-estate-right-"
+"now/trunk/includes/contact-form\n"
+"Report-Msgid-Bugs-To: \n"
+"Plural-Forms: nplurals=3; plural=(n==1 ? 0 :(((n%100>19)||(( n%100==0)&&(n!"
+"=0)))? 2 : 1));"
+
+msgid "A list of Featured products"
+msgstr "Lista cu proprietăţile recomandate"
+
+msgid "A list of Recent properties"
+msgstr "Lista cu cele mai recente proprietăţi"
+
+msgid "Add Fields Form"
+msgstr "Adaugă câmpuri"
+
+msgid "Add New agents"
+msgstr "Adaugă agenţi noi"
+
+msgid "Add New locations"
+msgstr "Adaugă noi locaţii"
+
+msgid "Add or Remove agents"
+msgstr "Adaugă sau elimină agenţi"
+
+msgid "Add or Remove locations"
+msgstr "Adaugă sau elimină locaţii"
+
+msgid "Address"
+msgstr "Adresă"
+
+msgid "Address of the property."
+msgstr "Adresa proprietăţii"
+
+msgid "Agents"
+msgstr "Agenţi"
+
+msgid "All"
+msgstr "Toate"
+
+msgid "Area"
+msgstr "Zonă"
+
+msgid "Area of the property."
+msgstr "Zona în care se află proprietatea"
+
+msgid "Back"
+msgstr "Înapoi"
+
+msgid "Baths"
+msgstr "Băi"
+
+msgid "Beds"
+msgstr "Camere"
+
+msgid "Call For Price"
+msgstr "Pentru mai multe detalii, contactaţi telefonic."
+
+msgid "Call for Price"
+msgstr "Pentru mai multe detalii , contactaţi telefonic."
+
+msgid "Cancel"
+msgstr "Anulează"
+
+msgid "Choose from the most used locations"
+msgstr "Alege dintre cele mai folosite locaţii"
+
+msgid "Choose from the most used makers"
+msgstr "Alege dintre cele mai folosite"
+
+msgid "Cond"
+msgstr "Stare"
+
+msgid "Contact Us"
+msgstr "Contactaţi ne"
+
+msgid "Currency"
+msgstr "Monedă"
+
+msgid "Details"
+msgstr "Detalii"
+
+msgid "Edit agents"
+msgstr "Modifică agenţi"
+
+msgid "Edit and Trash Fields"
+msgstr "Modifică şi şterge câmpuri"
+
+msgid "Edit and Trash Properties"
+msgstr "Modifică şi şterge proprietăţi"
+
+msgid "Edit locations"
+msgstr "Modifică locaţii"
+
+msgid "Enable Contact Form in Single Product Page?"
+msgstr "Activează formularul de contact pe pagina cu proprietatea"
+
+msgid "Enable Location control in search bar?"
+msgstr "Activează controlul locaţiilor în bara de căutare"
+
+msgid "Featured Image"
+msgstr "Imagine recomandată"
+
+msgid "Featured Images"
+msgstr "Imagini Recomandate"
+
+msgid "Featured properties"
+msgstr "Proprietăţi recomandate"
+
+msgid "Feets"
+msgstr "Picioare"
+
+msgid "Field Types"
+msgstr "Tipuri de câmpuri"
+
+msgid ""
+"Fill out your contact email to receive email from your Contact Form at "
+"bottom of the individual Product page."
+msgstr ""
+"Pentru a primi emailuri de la formularul de contact aflat la sfârşitul "
+"paginii cu proprietatea, completează cu emailul tău."
+
+msgid "For Rent or For Sale."
+msgstr "Închiriere sau Vânzare"
+
+msgid "HP"
+msgstr "HP"
+
+msgid "How many Baths."
+msgstr "Câte băi."
+
+msgid "How many Beds."
+msgstr "Câte camere."
+
+msgid "How many properties would you like to display per page?"
+msgstr "Câte proprietăţi ţi ar placea să afişezi pe pagină?"
+
+msgid "Images Gallery"
+msgstr "Galerie Imagini"
+
+msgid "Location"
+msgstr "Locaţie"
+
+msgid "Mark to show up at Featured Widget."
+msgstr "Bifează pentru a apărea in Widgetul Recomandate"
+
+msgid "Meters"
+msgstr "Metri"
+
+msgid "Meters - Feets"
+msgstr "Metri - Picioare"
+
+msgid "New Arrivals"
+msgstr "Cele mai recente"
+
+msgid "New agents"
+msgstr "Agenţi noi"
+
+msgid "New locations"
+msgstr "Locaţii noi"
+
+msgid "No"
+msgstr "Nu"
+
+msgid "No Team Member Added!"
+msgstr "Nu aţi adăugat niciun membru al echipei"
+
+msgid ""
+"No special characters here (\"$\" \",\" \".\"), the plugin will auto format "
+"the number."
+msgstr "Caracterele speciale nu sunt necesare, pluginul va pune automat."
+
+msgid "Not Found !"
+msgstr "Nu a fost găsit niciun rezultat."
+
+msgid "Onward"
+msgstr "Înainte"
+
+msgid "Optional. Fill out your Google API to use with yours maps (google maps)"
+msgstr "Opţional, completează cu Google API pentru a folosi google maps"
+
+msgid "Overview"
+msgstr "Rezumat"
+
+msgid "Parent agents"
+msgstr "Agenţi principali"
+
+msgid "Parent agents:"
+msgstr "Agenţi principali"
+
+msgid "Parent locations"
+msgstr "Locaţii principale"
+
+msgid "Parent locations:"
+msgstr "Locaţii principale"
+
+msgid "Please type your email"
+msgstr "Scrie, te rog, emailul"
+
+msgid "Please type your message"
+msgstr "Scrie, te rog, mesajul"
+
+msgid "Please type your name"
+msgstr "Tastează, te rog, numele"
+
+msgid "Price"
+msgstr "Preţ"
+
+msgid "Price Range"
+msgstr "Categorie de preţuri"
+
+msgid "Purpose"
+msgstr "Tipul ofertei"
+
+msgid "Remove Sidebar from Search Result Page"
+msgstr "Elimină bara laterală din pagina cu rezultatele căutării"
+
+msgid "Rent"
+msgstr "Închiriere"
+
+msgid "Replace the Wordpress Gallery with Flexslider Gallery"
+msgstr "Înlocuieşte Galeria Wordpress cu Galeria Flexslider"
+
+msgid "Request Information"
+msgstr "Informaţii necesare"
+
+msgid "Sale"
+msgstr "Vânzare"
+
+msgid "Search"
+msgstr "Caută"
+
+msgid "Search properties"
+msgstr "Caută proprietăţi"
+
+msgid "Send"
+msgstr "Trimite"
+
+msgid "Sending your message. Please wait..."
+msgstr "Trimitem mesajul. Te rugăm aşteaptă …"
+
+msgid "Separate agents with commas"
+msgstr "Separă agenţii prin virgulă"
+
+msgid "Separate locations with commas"
+msgstr "Separă locaţiile prin virgulă"
+
+msgid "Thanks for your message! We'll get back to you shortly."
+msgstr "Mulţumim pentru mesaj. Te vom contacta în curând."
+
+msgid "The year of the product. Only numbers, no point, no comma."
+msgstr "Anul construcţiei, doar numere, fără punct sau virgulă."
+
+msgid "Title"
+msgstr "Titlu"
+
+msgid "Update agents"
+msgstr "Actualizează agenţi"
+
+msgid "Update locations"
+msgstr "Actualizează locaţii"
+
+msgid "View"
+msgstr "Vezi oferta"
+
+msgid "Year"
+msgstr "Anul construcţiei"
+
+msgid "Yes"
+msgstr "Da"
+
+msgid "Your Email"
+msgstr "E-mail"
+
+msgid "Your Message"
+msgstr "Mesaj"
+
+msgid "Your Name"
+msgstr "Nume"

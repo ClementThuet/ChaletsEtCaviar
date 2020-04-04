@@ -1,0 +1,588 @@
+<!DOCTYPE html>
+<html lang="en-US" class="no-js">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width">
+	<link rel="profile" href="http://gmpg.org/xfn/11">
+	<link rel="pingback" href="http://boatplugin.com/xmlrpc.php">
+	<script>(function(html){html.className = html.className.replace(/\bno-js\b/,'js')})(document.documentElement);</script>
+<title>Boat Plugin &#8211; Just another WordPress site</title>
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="Boat Plugin &raquo; Feed" href="http://boatplugin.com/?feed=rss2" />
+<link rel="alternate" type="application/rss+xml" title="Boat Plugin &raquo; Comments Feed" href="http://boatplugin.com/?feed=comments-rss2" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2\/svg\/","svgExt":".svg","source":{"concatemoji":"http:\/\/boatplugin.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.6.1"}};
+			!function(a,b,c){function d(a){var c,d,e,f,g,h=b.createElement("canvas"),i=h.getContext&&h.getContext("2d"),j=String.fromCharCode;if(!i||!i.fillText)return!1;switch(i.textBaseline="top",i.font="600 32px Arial",a){case"flag":return i.fillText(j(55356,56806,55356,56826),0,0),!(h.toDataURL().length<3e3)&&(i.clearRect(0,0,h.width,h.height),i.fillText(j(55356,57331,65039,8205,55356,57096),0,0),c=h.toDataURL(),i.clearRect(0,0,h.width,h.height),i.fillText(j(55356,57331,55356,57096),0,0),d=h.toDataURL(),c!==d);case"diversity":return i.fillText(j(55356,57221),0,0),e=i.getImageData(16,16,1,1).data,f=e[0]+","+e[1]+","+e[2]+","+e[3],i.fillText(j(55356,57221,55356,57343),0,0),e=i.getImageData(16,16,1,1).data,g=e[0]+","+e[1]+","+e[2]+","+e[3],f!==g;case"simple":return i.fillText(j(55357,56835),0,0),0!==i.getImageData(16,16,1,1).data[0];case"unicode8":return i.fillText(j(55356,57135),0,0),0!==i.getImageData(16,16,1,1).data[0];case"unicode9":return i.fillText(j(55358,56631),0,0),0!==i.getImageData(16,16,1,1).data[0]}return!1}function e(a){var c=b.createElement("script");c.src=a,c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g,h,i;for(i=Array("simple","flag","unicode8","diversity","unicode9"),c.supports={everything:!0,everythingExceptFlag:!0},h=0;h<i.length;h++)c.supports[i[h]]=d(i[h]),c.supports.everything=c.supports.everything&&c.supports[i[h]],"flag"!==i[h]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[i[h]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel='stylesheet' id='contact-form-7-css'  href='http://boatplugin.com/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=4.5.1' type='text/css' media='all' />
+<link rel='stylesheet' id='genericons-css'  href='http://boatplugin.com/wp-content/themes/verticalmenu/genericons/genericons.css?ver=3.2' type='text/css' media='all' />
+<link rel='stylesheet' id='verticalmenu-style-css'  href='http://boatplugin.com/wp-content/themes/verticalmenu/style.css?ver=4.6.1' type='text/css' media='all' />
+<style id='verticalmenu-style-inline-css' type='text/css'>
+
+		/* Custom Header Background Color */
+		body:before,
+		.site-header {
+			background-color: #ffffff;
+		}
+        .menu-main-menu-container a
+        {
+        	color: #000000;
+        }
+        .menu-item a
+        {
+        	color: #000000;
+        }       
+		@media screen and (min-width: 59.6875em) {
+			.site-header,
+			.secondary {
+				background-color: transparent;
+			}
+			.widget button,
+			.widget input[type="button"],
+			.widget input[type="reset"],
+			.widget input[type="submit"],
+			.widget_calendar tbody a,
+			.widget_calendar tbody a:hover,
+			.widget_calendar tbody a:focus {
+				color: #ffffff;
+			}
+		}
+	
+
+		/* Custom Sidebar Text Color */
+		.site-title a,
+		.site-description,
+		.secondary-toggle:before {
+			color: #333333;
+		}
+		.site-title a:hover,
+		.site-title a:focus {
+			color: #333333; /* Fallback for IE7 and IE8 */
+			color: rgba( 51, 51, 51, 0.7);
+		}
+		.secondary-toggle {
+			border-color: #333333; /* Fallback for IE7 and IE8 */
+			border-color: rgba( 51, 51, 51, 0.1);
+		}
+		.secondary-toggle:hover,
+		.secondary-toggle:focus {
+			border-color: #333333; /* Fallback for IE7 and IE8 */
+			border-color: rgba( 51, 51, 51, 0.3);
+		}
+		.site-title a {
+			outline-color: #333333; /* Fallback for IE7 and IE8 */
+			outline-color: rgba( 51, 51, 51, 0.3);
+		}
+          .menu-main-menu-container a
+        {
+        	color: #000000;
+        }
+        .menu-item a
+        {
+        	color: #000000;
+        } 
+		@media screen and (min-width: 59.6875em) {
+			.secondary a,
+			.dropdown-toggle:after,
+			.widget-title,
+			.widget blockquote cite,
+			.widget blockquote small {
+				color: #333333;
+			}
+			.widget button,
+			.widget input[type="button"],
+			.widget input[type="reset"],
+			.widget input[type="submit"],
+			.widget_calendar tbody a {
+				background-color: #333333;
+			}
+			.textwidget a {
+				border-color: #333333;
+			}
+			.secondary a:hover,
+			.secondary a:focus,
+			.main-navigation .menu-item-description,
+			.widget,
+			.widget blockquote,
+			.widget .wp-caption-text,
+			.widget .gallery-caption {
+				color: rgba( 51, 51, 51, 0.7);
+			}
+			.widget button:hover,
+			.widget button:focus,
+			.widget input[type="button"]:hover,
+			.widget input[type="button"]:focus,
+			.widget input[type="reset"]:hover,
+			.widget input[type="reset"]:focus,
+			.widget input[type="submit"]:hover,
+			.widget input[type="submit"]:focus,
+			.widget_calendar tbody a:hover,
+			.widget_calendar tbody a:focus {
+				background-color: rgba( 51, 51, 51, 0.7);
+			}
+			.widget blockquote {
+				border-color: rgba( 51, 51, 51, 0.7);
+			}
+			.main-navigation ul,
+			.main-navigation li,
+			.secondary-toggle,
+			.widget input,
+			.widget textarea,
+			.widget table,
+			.widget th,
+			.widget td,
+			.widget pre,
+			.widget li,
+			.widget_categories .children,
+			.widget_nav_menu .sub-menu,
+			.widget_pages .children,
+			.widget abbr[title] {
+				border-color: rgba( 51, 51, 51, 0.1);
+			}
+			.dropdown-toggle:hover,
+			.dropdown-toggle:focus,
+			.widget hr {
+				background-color: rgba( 51, 51, 51, 0.1);
+			}
+			.widget input:focus,
+			.widget textarea:focus {
+				border-color: rgba( 51, 51, 51, 0.3);
+			}
+			.sidebar a:focus,
+			.dropdown-toggle:focus {
+				outline-color: rgba( 51, 51, 51, 0.3);
+			}
+		}
+	
+</style>
+<!--[if lt IE 9]>
+<link rel='stylesheet' id='verticalmenu-ie-css'  href='http://boatplugin.com/wp-content/themes/verticalmenu/css/ie.css?ver=20141010' type='text/css' media='all' />
+<![endif]-->
+<!--[if lt IE 8]>
+<link rel='stylesheet' id='verticalmenu-ie7-css'  href='http://boatplugin.com/wp-content/themes/verticalmenu/css/ie7.css?ver=20141010' type='text/css' media='all' />
+<![endif]-->
+<link rel='stylesheet' id='slicknav-css'  href='http://boatplugin.com/wp-content/themes/verticalmenu/css/slicknav.css?ver=4.6.1' type='text/css' media='all' />
+<script type='text/javascript' src='http://boatplugin.com/wp-includes/js/jquery/jquery.js?ver=1.12.4'></script>
+<script type='text/javascript' src='http://boatplugin.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script>
+<script type='text/javascript' src='http://boatplugin.com/wp-content/themes/verticalmenu/js/jquery.slicknav.js?ver=1.0.4'></script>
+<link rel='https://api.w.org/' href='http://boatplugin.com/?rest_route=/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://boatplugin.com/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://boatplugin.com/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 4.6.1" />
+	<style type='text/css'>
+     .entry-title
+     { 
+     display:block;    
+     }
+             #wrapper
+        	{ 
+            	 max-width:100% !important;
+             }  
+         .sidebar{
+                max-width: 320px !important
+            }
+         .site-content {
+    		display: block;
+    		float: left;
+    		margin-left: 25.4118%; 
+    		width: 74.5882%;
+            padding-right: 15px;
+    	}        
+        @media screen and (max-width: 65em) {    
+                  .sidebar{
+                     max-width: 100% !important;
+            }
+         } 
+        .site-info,
+    .site-info a {
+        color: #7a7a7a !important;
+        background: #ffffff !important;
+    }
+     #verticalmenu_navbar {
+            
+     }
+     
+	.primary-navigation a {
+    color:#878787!important;border-bottom-color:#878787!important;   } 
+     
+	.primary-navigation a:hover {
+    color:#a5a5a5!important;   }  
+     
+	.primary-navigation ul ul,
+	.primary-navigation li li {
+          background:#dddddd!important; 
+}
+      
+	       .primary-navigation ul ul a {
+           color:#878787!important;border-bottom-color:#878787!important;     
+          /*  color: red !important; */
+      }
+       
+	.primary-navigation ul ul a:hover,
+	.primary-navigation ul ul li.focus > a {
+           
+} 
+	.primary-navigation {
+            
+		    font-size: 14px !important;
+         
+        margin-top: 0px !important;
+	}
+    .sticky {
+                }
+      
+     .search-submit{
+            background: url(http://boatplugin.com/wp-content/themes/verticalmenu/images/magnifier_gray.png) no-repeat transparent !important;	}
+ #verticalmenu_navbar {
+  width: 100%;
+  max-width: 100% !important; 
+}
+.search-submit 
+   {
+       margin-top: 10px; 
+   }  
+        #verticalmenu_search_tool{
+            } 
+            
+    #wrapper
+      {
+          background: #white !important; 
+          opacity: 1 !important; 
+	  }
+    .sidebar,
+    #sidebar{
+        background:  #white !important; 
+    }
+      	 @media screen and (max-width: 65em) {
+                     .main-navigation
+                  .sidebar{
+                      max-width: 100% !important
+                   }
+        } 
+            #verticalmenu_navbar{
+          display: none !important;
+        }  
+       .main-navigation{
+        display: block !important;
+        }
+     @media screen and (max-width: 65em) {
+        .dropdown-toggle {
+           display: none !important;
+        }
+     }  
+           
+            #verticalmenu_search_icon  input[type="button"]
+            .slicknav_btn
+            .slicknav_menu .slicknav_icon 
+            {
+                background-color:transparent !important;
+                border: 0px !important;
+            }
+                    .custom-logo{
+          height: 200px !important;
+          min-height: 200px !important;
+          margin-top: 0px !important;
+        }
+
+    #header_top_left 
+       {
+        display: none;  
+       }
+    
+         #verticalmenu_iconemail
+         {
+           display: none !important; 
+         }
+    
+    
+    
+         #verticalmenu_iconphone
+         {
+           display: none !important; 
+         }
+    
+    
+    
+         #verticalmenu_iconhours
+         {
+           display: none !important; 
+         }
+    
+    
+  
+   #header_top_left, #vertical_topinfo_text 
+   {
+    color: gray !important;
+   }
+      
+     .search-submit{
+            background: url(http://boatplugin.com/wp-content/themes/verticalmenu/images/magnifier_gray.png) no-repeat transparent !important;	}
+    
+.menu-main-menu-container a,
+.menu-item a
+{
+	color: white;
+}
+ .slicknav_menu
+{
+	background: #55555;
+	padding: 0;
+}  
+.slicknav_menu  .slicknav_menutxt {
+    color: #55555;
+    font-weight: bold;
+    text-shadow: 0 1px 3px #000; 
+    } 
+.slicknav_menu .slicknav_icon-bar
+{
+	background-color: #ffffff;
+}                    
+.slicknav_nav LI
+{
+	border-top: 1px solid #333333;
+}
+.slicknav_nav A
+{
+	background: none;
+	color: #ffffff;
+}
+.slicknav_nav A:hover
+{
+    opacity: .7; 
+}
+.slicknav_nav A:hover
+{
+	background: none;
+	color: #ffffff;
+    opacity: .7;
+}
+</style>
+</head>
+<body class="home blog">
+<div id="wrapper">
+<div id="page" class="hfeed site">
+	<a class="skip-link screen-reader-text" href="#content">Skip to content</a>
+	<div id="sidebar" class="sidebar">
+		<header id="masthead" class="site-header"> <!-- role="banner"> -->
+			<div class="site-branding">
+              <div class="site-logo"> 
+                                </div>
+                    						<h1 class="site-title"><a href="http://boatplugin.com/" rel="home">Boat Plugin</a></h1>
+											<p class="site-description">Just another WordPress site</p>
+<div style="display:none;">
+         <form method="get" id="searchform" action="http://boatplugin.com/">
+            <div>
+              <input type="text" size="150" name="s" id="s" value="Write your search and hit Enter" onfocus="if(this.value==this.defaultValue)this.value='';" onblur="if(this.value=='')this.value=this.defaultValue;"/>
+            </div>
+         </form>
+</div>
+				<button class="secondary-toggle">Menu and widgets</button>
+			</div><!-- .site-branding -->
+		</header><!-- .site-header -->
+			<div id="secondary" class="secondary">
+		<div class="missing_menu_msg">Please, Setup or disable the verticalmenu. Dashboard => Appearence => Customize</div>		 <br />
+					<div id="widget-area" class="widget-area" > <!-- role="complementary"> -->
+				<aside id="search-3" class="widget widget_search"><form role="search" method="get" class="search-form" action="http://boatplugin.com/">
+				<label>
+					<span class="screen-reader-text">Search for:</span>
+					<input type="search" class="search-field" placeholder="Search &hellip;" value="" name="s" />
+				</label>
+				<input type="submit" class="search-submit screen-reader-text" value="Search" />
+			</form></aside><aside id="calendar-1" class="widget widget_calendar"><div id="calendar_wrap" class="calendar_wrap"><table id="wp-calendar">
+	<caption>October 2016</caption>
+	<thead>
+	<tr>
+		<th scope="col" title="Monday">M</th>
+		<th scope="col" title="Tuesday">T</th>
+		<th scope="col" title="Wednesday">W</th>
+		<th scope="col" title="Thursday">T</th>
+		<th scope="col" title="Friday">F</th>
+		<th scope="col" title="Saturday">S</th>
+		<th scope="col" title="Sunday">S</th>
+	</tr>
+	</thead>
+
+	<tfoot>
+	<tr>
+		<td colspan="3" id="prev"><a href="http://boatplugin.com/?m=201510">&laquo; Oct</a></td>
+		<td class="pad">&nbsp;</td>
+		<td colspan="3" id="next" class="pad">&nbsp;</td>
+	</tr>
+	</tfoot>
+
+	<tbody>
+	<tr>
+		<td colspan="5" class="pad">&nbsp;</td><td>1</td><td>2</td>
+	</tr>
+	<tr>
+		<td>3</td><td>4</td><td>5</td><td>6</td><td>7</td><td>8</td><td>9</td>
+	</tr>
+	<tr>
+		<td>10</td><td>11</td><td>12</td><td>13</td><td>14</td><td>15</td><td>16</td>
+	</tr>
+	<tr>
+		<td>17</td><td>18</td><td>19</td><td>20</td><td>21</td><td>22</td><td>23</td>
+	</tr>
+	<tr>
+		<td>24</td><td>25</td><td>26</td><td>27</td><td>28</td><td>29</td><td>30</td>
+	</tr>
+	<tr>
+		<td id="today"><a href="http://boatplugin.com/?m=20161031" aria-label="Posts published on October 31, 2016">31</a></td>
+		<td class="pad" colspan="6">&nbsp;</td>
+	</tr>
+	</tbody>
+	</table></div></aside>			</div><!-- .widget-area -->
+			</div><!-- .secondary -->
+	</div><!-- .sidebar -->
+	<div id="content" class="site-content">
+         	<div id="display_loading" >
+				<img src="http://boatplugin.com/wp-content/themes/verticalmenu/images/ajax-loader.gif" alt="loading icon" />
+			</div>
+   <div id="top_header" >
+            <div id="header_top_left" >
+                        </div>
+            <div id="header_top_right" >
+              <div id="verticalmenu_search_icon">
+                <form action="http://boatplugin.com/" method="get">
+                     <input id="verticalmenu_search_submit" class="search-submit" type="button" onclick="changeClass('verticalmenu_m_search')" style="border:none;" value="1" />
+                     <input id="verticalmenu_m_search" class="verticalmenu_m_search" name="s" type="text" placeholder="Type and hit enter... "  onkeydown="if (event.keyCode == 13) {
+                     this.form.submit();
+                     return false;
+                     }"/>
+                 </form>
+               </div>
+            <!-- #mysearchicon --> 
+            <div class="verticalmenu_my_shopping_cart"> 
+              
+            </div> <!-- #verticalmenu_shopping_cart --> 
+       </div>  <!-- top_header_widgets right -->
+      </div>  <!-- top_header -->
+    <div id="wrap_top_menu">
+            <!--  Menu -->
+            Please, Setup or disable the Top Menu. Dashboard => Appearence => Customize          
+          <!--  Fim Menu -->
+  </div> <!-- wrap_top_menu -->	<div id="primary" class="content-area">
+		<main id="main" class="site-main" role="main">
+								<article id="post-1" class="post-1 post type-post status-publish format-standard hentry category-uncategorized">
+		<header class="entry-header">
+		<h2 class="entry-title"><a href="http://boatplugin.com/?p=1" rel="bookmark">Hello world!</a></h2>	</header><!-- .entry-header -->
+	<div class="entry-content">
+		<p>Welcome to WordPress. This is your first post. Edit or delete it, then start writing!</p>
+	</div><!-- .entry-content -->
+		<footer class="entry-footer">
+		<span class="posted-on"><span class="screen-reader-text">Posted on </span><a href="http://boatplugin.com/?p=1" rel="bookmark"><time class="entry-date published updated" datetime="2016-10-31T14:51:21+00:00">October 31, 2016</time></a></span><span class="comments-link"><a href="http://boatplugin.com/?p=1#comments">2 Comments<span class="screen-reader-text"> on Hello world!</span></a></span>			</footer><!-- .entry-footer -->
+</article><!-- #post-## --><article id="post-426" class="post-426 post type-post status-publish format-standard hentry category-uncategorized">
+		<header class="entry-header">
+		<h2 class="entry-title"><a href="http://boatplugin.com/?p=426" rel="bookmark">Hello world!</a></h2>	</header><!-- .entry-header -->
+	<div class="entry-content">
+		<p>Welcome to WordPress. This is your first post. Edit or delete it, then start writing!</p>
+	</div><!-- .entry-content -->
+		<footer class="entry-footer">
+		<span class="posted-on"><span class="screen-reader-text">Posted on </span><a href="http://boatplugin.com/?p=426" rel="bookmark"><time class="entry-date published updated" datetime="2015-10-29T14:09:03+00:00">October 29, 2015</time></a></span><span class="comments-link"><a href="http://boatplugin.com/?p=426#comments">1 Comment<span class="screen-reader-text"> on Hello world!</span></a></span>			</footer><!-- .entry-footer -->
+</article><!-- #post-## -->		</main><!-- .site-main -->
+	</div><!-- .content-area -->
+
+	<footer id="colophon" class="site-footer"> <!-- role="contentinfo"> -->
+   <div class="footer-container">
+   <div class="footer-column column-one">
+       	   </div>
+   <div class="footer-column column-two">
+      				<div id="widget-area2" class="widget-area" role="complementary">
+				<div><div class="calendar_wrap"><table id="wp-calendar">
+	<caption>October 2016</caption>
+	<thead>
+	<tr>
+		<th scope="col" title="Monday">M</th>
+		<th scope="col" title="Tuesday">T</th>
+		<th scope="col" title="Wednesday">W</th>
+		<th scope="col" title="Thursday">T</th>
+		<th scope="col" title="Friday">F</th>
+		<th scope="col" title="Saturday">S</th>
+		<th scope="col" title="Sunday">S</th>
+	</tr>
+	</thead>
+
+	<tfoot>
+	<tr>
+		<td colspan="3" id="prev"><a href="http://boatplugin.com/?m=201510">&laquo; Oct</a></td>
+		<td class="pad">&nbsp;</td>
+		<td colspan="3" id="next" class="pad">&nbsp;</td>
+	</tr>
+	</tfoot>
+
+	<tbody>
+	<tr>
+		<td colspan="5" class="pad">&nbsp;</td><td>1</td><td>2</td>
+	</tr>
+	<tr>
+		<td>3</td><td>4</td><td>5</td><td>6</td><td>7</td><td>8</td><td>9</td>
+	</tr>
+	<tr>
+		<td>10</td><td>11</td><td>12</td><td>13</td><td>14</td><td>15</td><td>16</td>
+	</tr>
+	<tr>
+		<td>17</td><td>18</td><td>19</td><td>20</td><td>21</td><td>22</td><td>23</td>
+	</tr>
+	<tr>
+		<td>24</td><td>25</td><td>26</td><td>27</td><td>28</td><td>29</td><td>30</td>
+	</tr>
+	<tr>
+		<td id="today"><a href="http://boatplugin.com/?m=20161031" aria-label="Posts published on October 31, 2016">31</a></td>
+		<td class="pad" colspan="6">&nbsp;</td>
+	</tr>
+	</tbody>
+	</table></div></div>			</div><!-- .widget-area -->
+		   </div>
+   <div class="footer-column column-three">
+      				<div id="widget-area3" class="widget-area" role="complementary">
+				<div><h2>Find Us:</h2>			<div class="textwidget">Phone: 1-555-555
+eMail: info@myemail.com
+345 NW Miami Street
+02300 - Miami - Florida
+USA</div>
+		</div>			</div><!-- .widget-area -->
+		   </div>
+   </div>   
+	</footer><!-- .site-footer -->
+	   <div class="site-info">
+			Powered by verticalmenu.eu        	</div><!-- .site-info -->  
+       	</div><!-- .site-content --> 
+</div><!-- .site -->
+</div> <!-- wrapper -->
+<script type='text/javascript' src='http://boatplugin.com/wp-content/plugins/contact-form-7/includes/js/jquery.form.min.js?ver=3.51.0-2014.06.20'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var _wpcf7 = {"loaderUrl":"http:\/\/boatplugin.com\/wp-content\/plugins\/contact-form-7\/images\/ajax-loader.gif","recaptcha":{"messages":{"empty":"Please verify that you are not a robot."}},"sending":"Sending ..."};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://boatplugin.com/wp-content/plugins/contact-form-7/includes/js/scripts.js?ver=4.5.1'></script>
+<script type='text/javascript' src='http://boatplugin.com/wp-content/themes/verticalmenu/js/skip-link-focus-fix.js?ver=20141010'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var screenReaderText = {"expand":"<span class=\"screen-reader-text\">expand child menu<\/span>","collapse":"<span class=\"screen-reader-text\">collapse child menu<\/span>"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://boatplugin.com/wp-content/themes/verticalmenu/js/functions.js?ver=20150330'></script>
+<script type='text/javascript' src='http://boatplugin.com/wp-includes/js/jquery/ui/effect.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='http://boatplugin.com/wp-includes/js/wp-embed.min.js?ver=4.6.1'></script>
+ 
+
+<div class="back-to-top-row">       
+<a href="#" class="back-to-top">Back to Top</a>
+</div> 
+</body>
+</html>

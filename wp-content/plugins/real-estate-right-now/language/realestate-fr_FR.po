@@ -1,0 +1,396 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: realestate\n"
+"POT-Creation-Date: 2018-03-07 14:55-0000\n"
+"PO-Revision-Date: 2018-03-17 14:29-0000\n"
+"Last-Translator: Bill <sergiominozzi@gmail.com>\n"
+"Language-Team: bill minozzi <sergiominozzi@gmail.com>\n"
+"Language: fr_FR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.11\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Poedit-KeywordsList: __\n"
+"X-Poedit-SearchPath-0: f:/wordpress/real-estate-right-now/trunk\n"
+
+#: f:/wordpress/real-estate-right-now/trunk/includes/contact-form/multi-contact-show-form.php:22
+msgid "Request Information"
+msgstr "Informations Requises"
+
+#: f:/wordpress/real-estate-right-now/trunk/includes/contact-form/multi-contact-show-form.php:26
+msgid "Your Name"
+msgstr "Votre Nom"
+
+#: f:/wordpress/real-estate-right-now/trunk/includes/contact-form/multi-contact-show-form.php:29
+msgid "Please type your name"
+msgstr "Tapez votre nom s'il vous plaît"
+
+#: f:/wordpress/real-estate-right-now/trunk/includes/contact-form/multi-contact-show-form.php:32
+msgid "Your Email"
+msgstr "Votre Email"
+
+#: f:/wordpress/real-estate-right-now/trunk/includes/contact-form/multi-contact-show-form.php:35
+msgid "Please type your email"
+msgstr "Tapez votre email s'il vous plaît"
+
+#: f:/wordpress/real-estate-right-now/trunk/includes/contact-form/multi-contact-show-form.php:39
+msgid "Your Message"
+msgstr "Votre Message"
+
+#: f:/wordpress/real-estate-right-now/trunk/includes/contact-form/multi-contact-show-form.php:41
+msgid "Please type your message"
+msgstr "Tapez votre message s'il vous plaît"
+
+#: f:/wordpress/real-estate-right-now/trunk/includes/contact-form/multi-contact-show-form.php:47
+msgid "Send"
+msgstr "Envoyer"
+
+#: f:/wordpress/real-estate-right-now/trunk/includes/contact-form/multi-contact-show-form.php:48
+msgid "Cancel"
+msgstr "Annuler"
+
+#: f:/wordpress/real-estate-right-now/trunk/includes/help/help.php:191
+#: f:/wordpress/real-estate-right-now/trunk/includes/help/help.php:469
+#: f:/wordpress/real-estate-right-now/trunk/includes/help/help.php:813
+#: f:/wordpress/real-estate-right-now/trunk/includes/help/help.php:965
+#: f:/wordpress/real-estate-right-now/trunk/includes/help/help.php:1041
+msgid "Overview"
+msgstr "Aperçu"
+
+#: f:/wordpress/real-estate-right-now/trunk/includes/help/help.php:489
+msgid "Field Types"
+msgstr "Types de Champs"
+
+#: f:/wordpress/real-estate-right-now/trunk/includes/help/help.php:509
+msgid "Add Fields Form"
+msgstr "Ajouter des Champs"
+
+#: f:/wordpress/real-estate-right-now/trunk/includes/help/help.php:529
+msgid "Edit and Trash Fields"
+msgstr "Modifier et Supprimer des Champs"
+
+#: f:/wordpress/real-estate-right-now/trunk/includes/help/help.php:833
+msgid "Agents"
+msgstr "Agents"
+
+#: f:/wordpress/real-estate-right-now/trunk/includes/help/help.php:853
+#: f:/wordpress/real-estate-right-now/trunk/includes/search/search-function.php:172
+#: f:/wordpress/real-estate-right-now/trunk/includes/templates/template-functions.php:83
+msgid "Location"
+msgstr "Emplacements"
+
+#: f:/wordpress/real-estate-right-now/trunk/includes/help/help.php:873
+msgid "Edit and Trash Properties"
+msgstr "Modifier et Supprimer des Propriétés"
+
+#: f:/wordpress/real-estate-right-now/trunk/includes/help/help.php:893
+msgid "Featured Images"
+msgstr "Images Sélectionnées"
+
+#: f:/wordpress/real-estate-right-now/trunk/includes/help/help.php:913
+msgid "Images Gallery"
+msgstr "Galerie d'Images"
+
+#: f:/wordpress/real-estate-right-now/trunk/includes/post-type/meta-box.php:7
+msgid "For Rent or For Sale."
+msgstr "à Louer ou à Vendre."
+
+#: f:/wordpress/real-estate-right-now/trunk/includes/post-type/meta-box.php:11
+#: f:/wordpress/real-estate-right-now/trunk/includes/search/search-function.php:92
+msgid "Rent"
+msgstr "Location"
+
+#: f:/wordpress/real-estate-right-now/trunk/includes/post-type/meta-box.php:12
+#: f:/wordpress/real-estate-right-now/trunk/includes/search/search-function.php:94
+msgid "Sale"
+msgstr "Vente"
+
+#: f:/wordpress/real-estate-right-now/trunk/includes/post-type/meta-box.php:18
+msgid ""
+"No special characters here (\"$\" \",\" \".\"), the plugin will auto format "
+"the number."
+msgstr ""
+"Pas de caractères spéciaux ici (\"$\" \",\" \".\"), le plugin formatera "
+"automatiquement le numéro."
+
+#: f:/wordpress/real-estate-right-now/trunk/includes/post-type/meta-box.php:25
+msgid "The year of the product. Only numbers, no point, no comma."
+msgstr "L'année du produit ne contient que des nombres pas de ponctuation."
+
+#: f:/wordpress/real-estate-right-now/trunk/includes/post-type/meta-box.php:32
+msgid "Mark to show up at Featured Widget."
+msgstr "Cochez pour apparaître dans le Widget en Vedette."
+
+#: f:/wordpress/real-estate-right-now/trunk/includes/post-type/meta-box.php:37
+msgid "How many Beds."
+msgstr "Combien de Chambres."
+
+#: f:/wordpress/real-estate-right-now/trunk/includes/post-type/meta-box.php:57
+msgid "How many Baths."
+msgstr "Combien de Salles de Bains."
+
+#: f:/wordpress/real-estate-right-now/trunk/includes/post-type/meta-box.php:77
+msgid "Address of the property."
+msgstr "Adresse de la propriété."
+
+#: f:/wordpress/real-estate-right-now/trunk/includes/post-type/meta-box.php:84
+msgid "Area of the property."
+msgstr "Surface de la propriété."
+
+#: f:/wordpress/real-estate-right-now/trunk/includes/post-type/meta-box.php:194
+#: f:/wordpress/real-estate-right-now/trunk/includes/templates/template-functions.php:89
+msgid "Details"
+msgstr "Détails"
+
+#: f:/wordpress/real-estate-right-now/trunk/includes/post-type/post-functions.php:53
+msgid "Parent agents"
+msgstr "Agents apparenté"
+
+#: f:/wordpress/real-estate-right-now/trunk/includes/post-type/post-functions.php:54
+msgid "Parent agents:"
+msgstr "Agents apparenté:"
+
+#: f:/wordpress/real-estate-right-now/trunk/includes/post-type/post-functions.php:55
+msgid "Edit agents"
+msgstr "Modifier les agents"
+
+#: f:/wordpress/real-estate-right-now/trunk/includes/post-type/post-functions.php:56
+msgid "Update agents"
+msgstr "Mettre à jour les agents"
+
+#: f:/wordpress/real-estate-right-now/trunk/includes/post-type/post-functions.php:57
+msgid "Add New agents"
+msgstr "Ajouter des Nouveaux agents"
+
+#: f:/wordpress/real-estate-right-now/trunk/includes/post-type/post-functions.php:58
+msgid "New agents"
+msgstr "Nouveaux agents"
+
+#: f:/wordpress/real-estate-right-now/trunk/includes/post-type/post-functions.php:59
+msgid "Separate agents with commas"
+msgstr "Séparer les agents avec des virgules "
+
+#: f:/wordpress/real-estate-right-now/trunk/includes/post-type/post-functions.php:60
+msgid "Add or Remove agents"
+msgstr "Ajouter ou Supprimer des agents"
+
+#: f:/wordpress/real-estate-right-now/trunk/includes/post-type/post-functions.php:61
+msgid "Choose from the most used makers"
+msgstr "Choisir parmi les agents les plus utilisés"
+
+#: f:/wordpress/real-estate-right-now/trunk/includes/post-type/post-functions.php:79
+msgid "Parent locations"
+msgstr "Emplacements apparentés"
+
+#: f:/wordpress/real-estate-right-now/trunk/includes/post-type/post-functions.php:80
+msgid "Parent locations:"
+msgstr "Emplacements apparentés:"
+
+#: f:/wordpress/real-estate-right-now/trunk/includes/post-type/post-functions.php:81
+msgid "Edit locations"
+msgstr "Modifier les emplacements"
+
+#: f:/wordpress/real-estate-right-now/trunk/includes/post-type/post-functions.php:82
+msgid "Update locations"
+msgstr "Mettre à jour les emplacements"
+
+#: f:/wordpress/real-estate-right-now/trunk/includes/post-type/post-functions.php:83
+msgid "Add New locations"
+msgstr "Ajouter des nouveaux emplacements"
+
+#: f:/wordpress/real-estate-right-now/trunk/includes/post-type/post-functions.php:84
+msgid "New locations"
+msgstr "Nouveaux emplacements"
+
+#: f:/wordpress/real-estate-right-now/trunk/includes/post-type/post-functions.php:85
+msgid "Separate locations with commas"
+msgstr "Séparer les emplacements avec des virgules "
+
+#: f:/wordpress/real-estate-right-now/trunk/includes/post-type/post-functions.php:86
+msgid "Add or Remove locations"
+msgstr "Ajouter ou Supprimer des emplacements"
+
+#: f:/wordpress/real-estate-right-now/trunk/includes/post-type/post-functions.php:87
+msgid "Choose from the most used locations"
+msgstr "Choisir parmi les emplacements les plus utilisés"
+
+#: f:/wordpress/real-estate-right-now/trunk/includes/post-type/post-functions.php:372
+msgid "Featured Image"
+msgstr "Image Sélectionnée"
+
+#: f:/wordpress/real-estate-right-now/trunk/includes/post-type/post-functions.php:400
+msgid "Call For Price"
+msgstr "Appeler Pour le Prix"
+
+#: f:/wordpress/real-estate-right-now/trunk/includes/search/search-function.php:19
+#: f:/wordpress/real-estate-right-now/trunk/includes/search/search-function.php:350
+#: f:/wordpress/real-estate-right-now/trunk/includes/widgets/widgets.php:217
+msgid "Search"
+msgstr "Rechercher"
+
+#: f:/wordpress/real-estate-right-now/trunk/includes/search/search-function.php:85
+msgid "Purpose"
+msgstr "Type de bien"
+
+#: f:/wordpress/real-estate-right-now/trunk/includes/search/search-function.php:100
+#: f:/wordpress/real-estate-right-now/trunk/includes/templates/template-functions.php:94
+msgid "Beds"
+msgstr "Chambres"
+
+#: f:/wordpress/real-estate-right-now/trunk/includes/search/search-function.php:106
+#: f:/wordpress/real-estate-right-now/trunk/includes/search/search-function.php:138
+#: f:/wordpress/real-estate-right-now/trunk/includes/search/search-function.php:180
+#: f:/wordpress/real-estate-right-now/trunk/includes/search/search-function.php:253
+#: f:/wordpress/real-estate-right-now/trunk/includes/search/search-function.php:279
+msgid "All"
+msgstr "Tous"
+
+#: f:/wordpress/real-estate-right-now/trunk/includes/search/search-function.php:132
+#: f:/wordpress/real-estate-right-now/trunk/includes/templates/template-functions.php:100
+msgid "Baths"
+msgstr "Salles de bains"
+
+#: f:/wordpress/real-estate-right-now/trunk/includes/search/search-function.php:282
+msgid "Yes"
+msgstr "Oui"
+
+#: f:/wordpress/real-estate-right-now/trunk/includes/search/search-function.php:283
+msgid "No"
+msgstr "Non"
+
+#: f:/wordpress/real-estate-right-now/trunk/includes/search/search-function.php:297
+msgid "Price Range"
+msgstr "Budget"
+
+#: f:/wordpress/real-estate-right-now/trunk/includes/search/search-function.php:325
+msgid "Price"
+msgstr "Prix"
+
+#: f:/wordpress/real-estate-right-now/trunk/includes/templates/template-functions.php:71
+msgid "Address"
+msgstr "Adresse"
+
+#: f:/wordpress/real-estate-right-now/trunk/includes/templates/template-functions.php:155
+#: f:/wordpress/real-estate-right-now/trunk/includes/templates/template-showroom1.php:179
+#: f:/wordpress/real-estate-right-now/trunk/includes/templates/template-showroom3.php:226
+#: f:/wordpress/real-estate-right-now/trunk/includes/widgets/widgets.php:63
+#: f:/wordpress/real-estate-right-now/trunk/includes/widgets/widgets.php:159
+msgid "Call for Price"
+msgstr "Appeler pour le Prix"
+
+#: f:/wordpress/real-estate-right-now/trunk/includes/templates/template-functions.php:172
+#: f:/wordpress/real-estate-right-now/trunk/includes/templates/template-functions.php:183
+#: f:/wordpress/real-estate-right-now/trunk/includes/widgets/widgets.php:82
+#: f:/wordpress/real-estate-right-now/trunk/includes/widgets/widgets.php:174
+msgid "Year"
+msgstr "Année"
+
+#: f:/wordpress/real-estate-right-now/trunk/includes/templates/template-functions.php:188
+msgid "Cond"
+msgstr "Etat"
+
+#: f:/wordpress/real-estate-right-now/trunk/includes/templates/template-functions.php:189
+msgid "HP"
+msgstr "HP"
+
+#: f:/wordpress/real-estate-right-now/trunk/includes/templates/template-showroom1.php:222
+#: f:/wordpress/real-estate-right-now/trunk/includes/templates/template-showroom3.php:291
+msgid "View"
+msgstr "Voir"
+
+#: f:/wordpress/real-estate-right-now/trunk/includes/templates/template-showroom1.php:234
+#: f:/wordpress/real-estate-right-now/trunk/includes/templates/template-showroom3.php:300
+#: f:/wordpress/real-estate-right-now/trunk/includes/templates/template-single.php:36
+msgid "Back"
+msgstr "Retour"
+
+#: f:/wordpress/real-estate-right-now/trunk/includes/templates/template-showroom1.php:235
+#: f:/wordpress/real-estate-right-now/trunk/includes/templates/template-showroom3.php:301
+msgid "Onward"
+msgstr "Suivant"
+
+#: f:/wordpress/real-estate-right-now/trunk/includes/templates/template-showroom1.php:245
+#: f:/wordpress/real-estate-right-now/trunk/includes/templates/template-showroom3.php:310
+msgid "Not Found !"
+msgstr "Non Trouvé !"
+
+#: f:/wordpress/real-estate-right-now/trunk/includes/templates/template-single.php:62
+msgid "Contact Us"
+msgstr "Contactez-nous"
+
+#: f:/wordpress/real-estate-right-now/trunk/includes/widgets/widgets.php:15
+msgid "A list of Recent properties"
+msgstr "Liste des propriétés Récentes"
+
+#: f:/wordpress/real-estate-right-now/trunk/includes/widgets/widgets.php:41
+msgid "New Arrivals"
+msgstr "Nouveautés"
+
+#: f:/wordpress/real-estate-right-now/trunk/includes/widgets/widgets.php:103
+msgid "A list of Featured products"
+msgstr "Liste des propriétés à La Une"
+
+#: f:/wordpress/real-estate-right-now/trunk/includes/widgets/widgets.php:127
+msgid "Featured properties"
+msgstr "Propriétés à la une"
+
+#: f:/wordpress/real-estate-right-now/trunk/includes/widgets/widgets.php:192
+msgid "Search properties"
+msgstr "Rechercher propriétés"
+
+#: f:/wordpress/real-estate-right-now/trunk/includes/widgets/widgets.php:204
+msgid "Title"
+msgstr "Titre"
+
+#: f:/wordpress/real-estate-right-now/trunk/settings/options/plugin_options_tabbed.php:37
+msgid "Currency"
+msgstr "Monnaie"
+
+#: f:/wordpress/real-estate-right-now/trunk/settings/options/plugin_options_tabbed.php:70
+msgid "Meters - Feets"
+msgstr "Mètres - Pieds"
+
+#: f:/wordpress/real-estate-right-now/trunk/settings/options/plugin_options_tabbed.php:74
+msgid "Meters"
+msgstr "Mètres"
+
+#: f:/wordpress/real-estate-right-now/trunk/settings/options/plugin_options_tabbed.php:76
+msgid "Feets"
+msgstr "Pieds"
+
+#: f:/wordpress/real-estate-right-now/trunk/settings/options/plugin_options_tabbed.php:128
+msgid "How many properties would you like to display per page?"
+msgstr "Combien de propriétés voulez-vous afficher par page?"
+
+#: f:/wordpress/real-estate-right-now/trunk/settings/options/plugin_options_tabbed.php:188
+msgid "Remove Sidebar from Search Result Page"
+msgstr "Supprimer la Barre Latérale de la Page des Résultats "
+
+#: f:/wordpress/real-estate-right-now/trunk/settings/options/plugin_options_tabbed.php:206
+msgid "Replace the Wordpress Gallery with Flexslider Gallery"
+msgstr "Remplacer la Galerie Wordpress par une Galerie Flexslider"
+
+#: f:/wordpress/real-estate-right-now/trunk/settings/options/plugin_options_tabbed.php:228
+msgid "Enable Contact Form in Single Product Page?"
+msgstr ""
+"Autoriser le Formulaire de Contact dans les Pages Produits Individuelles?"
+
+#: f:/wordpress/real-estate-right-now/trunk/settings/options/plugin_options_tabbed.php:250
+msgid "Enable Location control in search bar?"
+msgstr "Autoriser l'utilisation de la Localisation dans la barre de recherche?"
+
+#: f:/wordpress/real-estate-right-now/trunk/settings/options/plugin_options_tabbed.php:278
+msgid ""
+"Fill out your contact email to receive email from your Contact Form at "
+"bottom of the individual Product page."
+msgstr ""
+"Remplissez votre adresse e-mail de contact pour recevoir des e-mails à "
+"partir de votre Formulaire de Contact au bas de la fiche Produit."
+
+#: f:/wordpress/real-estate-right-now/trunk/settings/options/plugin_options_tabbed.php:288
+msgid "Optional. Fill out your Google API to use with yours maps (google maps)"
+msgstr ""
+"Optionnel. Remplissez votre Google API pour utiliser avec vos cartes (google "
+"maps)"

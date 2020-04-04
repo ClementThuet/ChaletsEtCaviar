@@ -1,0 +1,46 @@
+
+---Downloaded files---
+The import files for: Demo Import 1 were successfully downloaded!
+Initial max execution time = 120
+Files info:
+Site URL = http://localhost/ChaletsEtCaviar
+Data file = C:\wamp64\www\ChaletsEtCaviar/wp-content/uploads/2019/03/demo-content-import-file_2019-03-07__10-24-40.xml
+Widget file = C:\wamp64\www\ChaletsEtCaviar/wp-content/uploads/2019/03/demo-widgets-import-file_2019-03-07__10-24-40.json
+Customizer file = C:\wamp64\www\ChaletsEtCaviar/wp-content/uploads/2019/03/demo-customizer-import-file_2019-03-07__10-24-40.dat
+Redux files:
+not defined!
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+---Importing widgets---
+Sidebar : 
+
+Search properties - No Title - Imported
+Featured properties - No Title - Imported
+Recent properties - No Title - Imported
+
+First Footer Widget : 
+
+HTML personnalisé - About - Imported
+
+Second Footer Widget : 
+
+Recent properties - No Title - Imported
+
+Third Footer Widget : 
+
+Texte - No Title - Imported
+
+
+
+---Importing customizer settings---
+Customizer settings import finished!
+
+---pt-ocdi/after_import---
+

@@ -1,0 +1,19 @@
+a:4:{s:8:"template";s:21:"real-estate-right-now";s:4:"mods";a:23:{i:0;b:0;s:18:"nav_menu_locations";a:2:{s:7:"primary";i:6;s:6:"social";i:7;}s:18:"custom_css_post_id";i:18337;s:16:"sidebars_widgets";a:2:{s:4:"time";i:1546885835;s:4:"data";a:5:{s:19:"wp_inactive_widgets";a:6:{i:0;s:10:"archives-2";i:1;s:6:"meta-2";i:2;s:8:"search-2";i:3;s:12:"categories-2";i:4;s:14:"recent-posts-2";i:5;s:17:"recent-comments-2";}s:9:"sidebar-1";a:3:{i:0;s:14:"searchwidget-3";i:1;s:16:"featuredwidget-3";i:2;s:14:"recentwidget-3";}s:8:"1-footer";a:1:{i:0;s:13:"custom_html-2";}s:8:"2-footer";a:1:{i:0;s:14:"recentwidget-4";}s:8:"3-footer";a:1:{i:0;s:16:"featuredwidget-4";}}}s:43:"realestaterightnow_submenu_hover_background";s:7:"#443432";s:38:"realestaterightnow_submenu_hover_color";s:7:"#ffffff";s:14:"menu_font_size";s:2:"18";s:39:"realestaterightnow_copyright_background";s:7:"#595959";s:34:"realestaterightnow_copyright_color";s:7:"#ffffff";s:11:"custom_logo";i:825;s:16:"header_text_bill";i:0;s:34:"realestaterightnow_show_top_header";s:1:"1";s:32:"realestaterightnow_topinfo_phone";s:9:"1-555-555";s:32:"realestaterightnow_topinfo_email";s:14:"info@gmail.com";s:32:"realestaterightnow_topinfo_hours";s:32:"Monday to Sunday, 9:00 to 17:00H";s:32:"realestaterightnow_topinfo_color";s:7:"#ffffff";s:42:"realestaterightnow_header_background_color";s:7:"#000033";s:40:"realestaterightnow_navigation_background";s:7:"#000033";s:38:"realestaterightnow_header_border_color";s:7:"#727272";s:34:"realestaterightnow_menu_margin_top";s:2:"23";s:34:"realestaterightnow_logo_margin_top";s:2:"20";s:36:"realestaterightnow_footer_background";s:9:"lightgray";s:29:"realestaterightnow_blog_style";s:1:"3";}s:7:"options";a:2:{s:9:"site_icon";s:3:"796";s:23:"nav_menus_created_posts";a:0:{}}s:6:"wp_css";s:231:"
+
+@media only screen and (max-width: 1000px) {
+.remove_when_small
+  {
+     display: none !important;
+
+  }
+.full_when_small
+  {
+      width: 100% !important;
+
+  }
+}
+.remove_when_small
+  {
+     vertical-align: middle !important;
+
+  }";}
